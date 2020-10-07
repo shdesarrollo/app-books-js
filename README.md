@@ -5,6 +5,7 @@
   - NodeJS
   - MongoDB
   - Express
+  
   FRONTEND:
   - JavaScript
   - HTML5
@@ -12,3 +13,4 @@
   
 # Aplicacion desplegada en Heroku
 # Link app: https://app-books-js.herokuapp.com/
+# Link Api: https://app-books-js.herokuapp.com/api/books
