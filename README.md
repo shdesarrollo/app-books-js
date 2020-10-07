@@ -10,6 +10,7 @@
   - JavaScript
   - HTML5
   - Bootstrap
+  - Webpack
   
 # Aplicacion desplegada en Heroku
 # Link app: https://app-books-js.herokuapp.com/
